@@ -1,0 +1,15 @@
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/bin/Debug/net8.0/Task 3
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/bin/Debug/net8.0/Task 3.deps.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/bin/Debug/net8.0/Task 3.runtimeconfig.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/bin/Debug/net8.0/Task 3.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/bin/Debug/net8.0/Task 3.pdb
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/Task 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/Task 3.AssemblyInfoInputs.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/Task 3.AssemblyInfo.cs
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/Task 3.csproj.CoreCompileInputs.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/Task 3.sourcelink.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/Task 3.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/refint/Task 3.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/Task 3.pdb
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/Task 3.genruntimeconfig.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 3/obj/Debug/net8.0/ref/Task 3.dll
