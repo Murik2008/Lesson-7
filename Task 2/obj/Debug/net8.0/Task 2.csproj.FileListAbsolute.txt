@@ -1,0 +1,15 @@
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/Task 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/Task 2.AssemblyInfoInputs.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/Task 2.AssemblyInfo.cs
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/Task 2.csproj.CoreCompileInputs.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/Task 2.sourcelink.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/bin/Debug/net8.0/Task 2
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/bin/Debug/net8.0/Task 2.deps.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/bin/Debug/net8.0/Task 2.runtimeconfig.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/bin/Debug/net8.0/Task 2.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/bin/Debug/net8.0/Task 2.pdb
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/Task 2.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/refint/Task 2.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/Task 2.pdb
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/Task 2.genruntimeconfig.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/Git_C#/Git_C#_12/Task 2/obj/Debug/net8.0/ref/Task 2.dll
